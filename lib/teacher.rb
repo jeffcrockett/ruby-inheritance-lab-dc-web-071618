@@ -11,4 +11,4 @@ class Teacher < User
 
 end
 
-binding.pry
+# binding.pry
